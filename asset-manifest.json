@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrimbaone/static/css/main.2f8bd13a.css",
+    "main.js": "/scrimbaone/static/js/main.3cac7f25.js",
+    "static/js/787.19e9de83.chunk.js": "/scrimbaone/static/js/787.19e9de83.chunk.js",
+    "static/media/pricing.svg": "/scrimbaone/static/media/pricing.7efe0993752dce633b08.svg",
+    "index.html": "/scrimbaone/index.html",
+    "main.2f8bd13a.css.map": "/scrimbaone/static/css/main.2f8bd13a.css.map",
+    "main.3cac7f25.js.map": "/scrimbaone/static/js/main.3cac7f25.js.map",
+    "787.19e9de83.chunk.js.map": "/scrimbaone/static/js/787.19e9de83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f8bd13a.css",
+    "static/js/main.3cac7f25.js"
+  ]
+}
